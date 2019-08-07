@@ -1,4 +1,4 @@
-def reverse_each_word(string)
+def reverse_each_word()
 reversed_string = ""
 i = 0 
   while i < string.length do
