@@ -4,7 +4,6 @@ array = string.split(" ")
  reversed_string = []
  
  array.each do |string|
-   binding.pry
    reversed_string << string.reverse
  end
  
