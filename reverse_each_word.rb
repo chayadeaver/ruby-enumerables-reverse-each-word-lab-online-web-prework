@@ -4,7 +4,5 @@ array = string.split(" ")
  
   array.collect do |string|
    string.reverse
- end
- 
- .join(" ")
+ end.join(" ")
 end
