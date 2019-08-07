@@ -7,5 +7,5 @@ array = string.split(" ")
    reversed_string << string.reverse
  end
  
- return reversed_string.join
+ return reversed_string.join(" ")
 end
