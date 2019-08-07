@@ -6,5 +6,5 @@ string = string.split('')
   reversed_string.unshift(char)
  end
  
- return reversed_string
+ return reversed_string.join
 end
